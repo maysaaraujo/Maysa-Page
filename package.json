@@ -6,3 +6,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+{
+  "name": "starter-project",
+  "homepage": "https://tomerpacific.github.io/starter-project/", <----
+  "version": "0.1.0",
+  /....
+}
